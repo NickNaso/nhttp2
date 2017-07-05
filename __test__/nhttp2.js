@@ -17,6 +17,10 @@
  * Mauro Doganieri <mauro.doganieri@gmail.com>
  ******************************************************************************/
 
- module.exports = {
+ 'use strict'
+
+ const http2 = require('../')
+
+ describe('Test nhttp2', function () {
      
- }
+ })
